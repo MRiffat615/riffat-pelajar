@@ -1,13 +1,15 @@
 <!DOCTYPE html>
-<HTML>
-  <HEAD>
-<title>Profil Saya - riffat<title>
+<html>
 <head>
-  <body>
-    <img src="foto-profil.jpg" alt="profil saya">
-    <h1>Muhammad Riffat Setiyawan Abhipraya</h1>
-    <p>Selamat Datang Di Website Pertama saya!</p>
-    <a href="https://www.instagram.com/rifaattjirr">Kunjungi Instagram saya!</p>
+    <title>firli</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="kartu-profil">
+        <img src="foto-profil.jpg" alt="Foto profil saya">
+        <h1>Muhammad Riffat Setiyawan Abhipraya</h1>
+        <p>Siswa SMA yang tertarik dengan teknologi dan desain. Selamat datang di website pertama saya!</p>
+        <a href="https://www.instagram.com/rifaattjirr">Kunjungi Instagram Saya</a>
     </div>
-  </body>
+</body>
 </html>
